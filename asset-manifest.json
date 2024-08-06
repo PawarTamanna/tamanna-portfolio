@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e538c32.css",
+    "main.js": "/static/js/main.b9129076.js",
+    "static/media/pro2.png": "/static/media/pro2.1833723bfc6a932226a2.png",
+    "static/media/pro1.png": "/static/media/pro1.ada7a97b7eb61e9192eb.png",
+    "static/media/pro5.png": "/static/media/pro5.6e1b062155fd96b00d1d.png",
+    "static/media/img2.png": "/static/media/img2.fce26d93c66008463bd6.png",
+    "static/media/pro3.png": "/static/media/pro3.0380755670a5dccb9e96.png",
+    "static/media/pro6.png": "/static/media/pro6.c073d2a63de44b91ec40.png",
+    "static/media/Tamanna_PAWAR_webdev.docx (1).pdf": "/static/media/Tamanna_PAWAR_webdev.docx (1).0bb05ca637fcc94bd493.pdf",
+    "static/media/tn3.jpeg": "/static/media/tn3.0056e3c8c66c17355534.jpeg",
+    "static/media/tn4.jpeg": "/static/media/tn4.7f38f4c3bb66b1bdc67c.jpeg",
+    "index.html": "/index.html",
+    "main.2e538c32.css.map": "/static/css/main.2e538c32.css.map",
+    "main.b9129076.js.map": "/static/js/main.b9129076.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e538c32.css",
+    "static/js/main.b9129076.js"
+  ]
+}
